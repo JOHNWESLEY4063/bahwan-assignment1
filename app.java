@@ -1,5 +1,5 @@
-public class App {
+public class app {
     public static void main(String[] args) {
-        System.out.println("Hello, Git Assignment!");
+        System.out.println("modified by A");
     }
 }
